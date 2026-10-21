@@ -5,7 +5,7 @@
 **Team ChhayaPath** — Shahriar Karim Rudra, Ishtiak Al Humaidi, Habibur Rahman Limon
 Department of Computer Science and Engineering, BRAC University
 
-Submitted to **Research Expo 2.0: Inter University Research Proposal and Datathon 2026**, organized by the Research & Publication Unit (RPU), Department of CSE, University of Asia Pacific (UAP).
+🏅 **Selected in the Top 25** of the Inter University Research Proposal segment at **Research Expo 2.0: Inter University Research Proposal and Datathon 2026**, organized by the Research & Publication Unit (RPU), Department of CSE, University of Asia Pacific (UAP).
 
 [![Research poster preview](poster/poster_preview.jpg)](poster/ChhayaPath_Research_Poster.pdf)
 
