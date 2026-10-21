@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you refer to this research proposal, please cite it as below."
+title: "Time-Aware Pedestrian Route Planning to Reduce Sun Exposure in Dhaka: A Field Validation Study"
+type: generic
+authors:
+  - family-names: Rudra
+    given-names: Shahriar Karim
+    affiliation: "Department of Computer Science and Engineering, BRAC University"
+  - family-names: Al Humaidi
+    given-names: Ishtiak
+    affiliation: "Department of Computer Science and Engineering, BRAC University"
+  - family-names: Limon
+    given-names: Habibur Rahman
+    affiliation: "Department of Computer Science and Engineering, BRAC University"
+date-released: 2026-10-21
+license: CC-BY-4.0
+keywords:
+  - pedestrian routing
+  - shade
+  - sun exposure
+  - urban heat
+  - Dhaka
+  - GIS
+  - research proposal
